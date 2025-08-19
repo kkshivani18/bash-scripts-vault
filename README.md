@@ -55,4 +55,4 @@ This directory contains various bash scripts created during the learning and dev
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the [MIT License](LICENSE)
